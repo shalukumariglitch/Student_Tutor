@@ -1,0 +1,9 @@
+id,name,subject,levels,experience,rating,hourly_fee,specialties,languages,availability,bio
+1,Aarav Mehta,Mathematics,Class 6-12,5 years,4.9,450,"Algebra, Geometry, Calculus","English, Hindi",Mon-Sat,Patient and concept-focused tutor who makes difficult topics easy.
+2,Sneha Iyer,Science,Class 6-10,4 years,4.8,400,"Physics, Chemistry, Biology","English, Hindi",Mon-Fri,Interactive science tutor with experiment-based explanations.
+3,Rohan Das,Computer Science,Class 8-College,6 years,4.9,600,"Python, Java, Web Development","English, Hindi, Bengali",Tue-Sun,"Programming mentor focused on projects, logic, and problem solving."
+4,Meera Nair,English,Class 5-12,7 years,4.7,350,"Grammar, Writing, Literature","English, Hindi",Mon-Sat,"Helps students improve communication, writing, and exam performance."
+5,Kabir Singh,Mathematics,Class 9-12,3 years,4.6,380,"Trigonometry, Algebra, Statistics","English, Hindi",Wed-Sun,Friendly tutor with exam-focused practice and revision strategies.
+6,Ananya Roy,Science,Class 9-12,5 years,4.9,500,"Physics, Chemistry","English, Hindi, Bengali",Mon-Sat,"Strong focus on numericals, board preparation, and fundamentals."
+7,Vikram Rao,Computer Science,Class 6-12,4 years,4.8,500,"Scratch, Python, AI Basics","English, Hindi",Sat-Sun,Project-based coding tutor for school students and beginners.
+8,Priya Sharma,English,Class 6-College,8 years,4.9,420,"Spoken English, Writing, IELTS Basics","English, Hindi",Mon-Fri,"Communication-focused tutor for confidence, fluency, and writing."
